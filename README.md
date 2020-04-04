@@ -4,4 +4,5 @@ Name:- Identifying people with diiferent outfit
 
 DataSet -Fashion MNIST
 
-Made By- Priyansh Soniya - 11711808 Rishi Raj Singh - 11711818
+Made By- Shubham Narang - 11704882 
+         Lavishaditya Singh Rathore - 11704971
