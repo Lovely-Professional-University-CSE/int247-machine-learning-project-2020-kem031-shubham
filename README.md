@@ -1,6 +1,6 @@
 # Machine Learning Project 2020
 
-Name:- Identifying diiferent outfit
+Name:- Identifying different outfit
 
 DataSet -Fashion MNIST
 
